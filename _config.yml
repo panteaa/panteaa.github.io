@@ -84,7 +84,7 @@ author:
   avatar           : "profile-picture.png"
   bio              : "CS PhD Candidate"
   location         : "Chicago, IL"
-  employer         :
+  employer         : "University of Illinois at Chicago"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=lREHyjIAAAAJ&hl=en"
   email            : "phabib4@uic.edu"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCtGSbu_Ay-JJs-MZed8-xQg?view_as=subscriber"
   wikipedia        :
 
 
