@@ -15,4 +15,5 @@ My research interests include:
 * Human-Computer Interaction
 * Virtual and Augmented Reality
 * Mid-air Interaction
+* UX Research
 * Data Science
