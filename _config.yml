@@ -95,7 +95,8 @@ author:
   dribbble         :
   flickr           :
   facebook         : "pantea.habibi.9"
-  foursquare       : "pante_aa"
+  foursquare       :
+  # foursquare       : "pante_aa"
   github           : "panteaa"
   google_plus      :
   keybase          :
@@ -103,9 +104,12 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "pantea-habibi"
-  orcid            : "https://orcid.org/0000-0002-6587-3270"
-  pinterest        : "paanteaa"
-  soundcloud       : "pante_aa"
+  # orcid            : "https://orcid.org/0000-0002-6587-3270"
+  orcid            :
+  pinterest        :
+  # pinterest        : "paanteaa"
+  # soundcloud       : "pante_aa"
+  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
