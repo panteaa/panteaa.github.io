@@ -191,6 +191,12 @@ collections:
   project:
     output: true
     permalink: /:collection/:path/
+  courseproject:
+    output: true
+    permalink: /:collection/:path/
+  researchproject:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
