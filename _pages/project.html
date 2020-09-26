@@ -6,7 +6,13 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>University of Illinois at Chicago, Course Projects</h1>
+<h1>Research Projects</h1>
+
+{% for post in site.projecttest %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h1>Course Projects</h1>
 
 {% for post in site.project %}
   {% include archive-single.html %}
