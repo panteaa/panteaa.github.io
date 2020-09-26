@@ -249,6 +249,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # project
+  - scope:
+      path: ""
+      type: project
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # researchproject
   - scope:
       path: ""
