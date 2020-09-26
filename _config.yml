@@ -191,9 +191,6 @@ collections:
   project:
     output: true
     permalink: /:collection/:path/
-  researchproject:
-    output: true
-    permalink: /:collection/:path/
   courseproject:
     output: true
     permalink: /:collection/:path/
@@ -253,15 +250,6 @@ defaults:
   - scope:
       path: ""
       type: project
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # researchproject
-  - scope:
-      path: ""
-      type: researchproject
     values:
       layout: single
       author_profile: true
