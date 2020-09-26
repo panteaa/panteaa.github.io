@@ -243,19 +243,19 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # researchProject
+  # researchproject
   - scope:
       path: ""
-      type: researchProject
+      type: researchproject
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # courseProject
+  # courseproject
   - scope:
       path: ""
-      type: courseProject
+      type: courseproject
     values:
       layout: single
       author_profile: true
