@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [Department of Computer Science](https://cs.uic.edu/) at the [University of Illinois Chicago (UIC)](https://www.uic.edu/). I am a member of Human-Computer Interaction laboratory, and [Electronic Visualization Laboratory](https://www.evl.uic.edu/), working with my advisor Professor [Debaleena Chattopadhyay](http://debaleena.com/). I received my MS in Computer Science from UIC, and my BS in Computer Engineering from [Amirkabir University of Technology](https://aut.ac.ir/en/).
-
+I hold a PhD in Computer Science from the [University of Illinois Chicago (UIC)](https://www.uic.edu/), where I was a member of the Human-Computer Interaction Laboratory and the [Electronic Visualization Laboratory](https://www.evl.uic.edu/). I worked under the guidance of Professor [Debaleena Chattopadhyay](http://debaleena.com/). Prior to my PhD, I earned my MS in Computer Science from UIC and my BS in Computer Engineering from Amirkabir University of Technology.
 
 My research interests lie primarily in the area of Human-Computer Interaction. I am experienced in and passionate about:
 
-* Virtual and Augmented Reality
-* Mid-air Interaction
-* UX Research
+* Immersive Technologies (VR/AR/MR)
+* Mid-air and spatial Interaction
+* Human-AI Interaction and Collaboration
 * Human-Centered Data Science
