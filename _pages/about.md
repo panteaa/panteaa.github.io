@@ -18,5 +18,6 @@ My research interests lie primarily in the area of Human-Computer Interaction. I
 * Human-Centered Data Science
 
 
+
 Please explore my work and feel free to reach out for inquiries or collaborations. I am also on the job market, actively seeking HCI-related research positions. If you have any opportunities or leads, please don’t hesitate to contact me.
 
