@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pantea Habibi"
   avatar           : "profile-picture.png"
-  # bio              : "CS PhD Candidate"
+  bio              : ""
   location         : "Chicago, IL"
   employer         :
   pubmed           :
