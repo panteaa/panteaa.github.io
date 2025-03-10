@@ -7,12 +7,15 @@ author_profile: true
 {% include base_path %}
 
 <p>Under Construction!</p>
-  
+
+{% assign sorted_projects = site.project | sort: "rank" %}
+
 <h1>Research and Course Projects</h1>
 
-{% for post in site.project %}
+{% for post in sorted_projects %}
   {% include archive-single.html %}
 {% endfor %}
+
 
  -->
 
