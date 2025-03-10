@@ -8,12 +8,20 @@ author_profile: true
 
 <p>Under Construction!</p>
   
-{% assign all_projects = site.project | concat: site.courseproject %}
+<h1>Research and Course Projects</h1>
+
+{% for post in site.project %}
+  {% include archive-single.html %}
+{% endfor %}
+
+ -->
+
+<!-- {% assign all_projects = site.project | concat: site.courseproject %}
 
 <h1>Research and Course Projects</h1>
 {% for post in all_projects %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 
 <!-- <h1>Research Projects</h1>
