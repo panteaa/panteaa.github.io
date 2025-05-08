@@ -1,25 +1,6 @@
 ---
 layout: default
 ---
-
-{% assign sorted_projects = site.project | sort: "rank" %}
-{% for current_post in sorted_projects %}
-  {% if current_post.url == page.url %}
-    {% assign currentIndex = forloop.index0 %}
-    {% assign prevIndex = currentIndex | minus: 1 %}
-    {% assign nextIndex = currentIndex | plus: 1 %}
-
-    {% if prevIndex >= 0 %}
-      {% assign prevPost = sorted_projects[prevIndex] %}
-    {% endif %}
-
-    {% if nextIndex < sorted_projects.size %}
-      {% assign nextPost = sorted_projects[nextIndex] %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
-
 {% include base_path %}
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}

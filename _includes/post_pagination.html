@@ -1,24 +1,5 @@
 {% include base_path %}
 
-{% if prevPost or nextPost %}
-  <nav class="pagination">
-    {% if prevPost %}
-      <a href="{{ base_path }}{{ prevPost.url }}" class="pagination--pager" title="{{ prevPost.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
-    {% else %}
-      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
-    {% endif %}
-
-    {% if nextPost %}
-      <a href="{{ base_path }}{{ nextPost.url }}" class="pagination--pager" title="{{ nextPost.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
-    {% else %}
-      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
-    {% endif %}
-  </nav>
-{% endif %}
-
-
-<!-- {% include base_path %}
-
 {% if page.previous or page.next %}
   <nav class="pagination">
     {% if page.previous %}
@@ -32,4 +13,4 @@
       <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
     {% endif %}
   </nav>
-{% endif %} -->
+{% endif %}
