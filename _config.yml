@@ -191,8 +191,6 @@ collections:
   project:
     output: true
     permalink: /:collection/:path/
-    sort_by: rank      # <-- the front-matter key to sort on
-    order: ascending   # or descending
   courseproject:
     output: true
     permalink: /:collection/:path/
